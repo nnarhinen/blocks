@@ -19,6 +19,8 @@
     "express": "~3.5.1",
     "waterline": "git://github.com/balderdashy/waterline",
     "sails-postgresql": "git://github.com/balderdashy/sails-postgresql",
-    "lodash": "~2.4.1"
+    "lodash": "~2.4.1",
+    "nunjucks": "~1.0.2",
+    "async": "~0.6.2"
   }
 }
