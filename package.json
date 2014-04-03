@@ -1,0 +1,24 @@
+{
+  "name": "blocks",
+  "version": "0.0.0",
+  "description": "blocks ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nnarhinen/blocks.git"
+  },
+  "author": "Niklas Närhinen <niklas@narhinen.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nnarhinen/blocks/issues"
+  },
+  "dependencies": {
+    "express": "~3.5.1",
+    "waterline": "git://github.com/balderdashy/waterline",
+    "sails-postgresql": "git://github.com/balderdashy/sails-postgresql",
+    "lodash": "~2.4.1"
+  }
+}
